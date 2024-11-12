@@ -1,3 +1,10 @@
 body {
   margin: 0 auto;
 }
+
+a {
+  color: red;
+}
+p {
+  color: blue;
+}
